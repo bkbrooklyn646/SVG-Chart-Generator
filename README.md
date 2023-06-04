@@ -1,5 +1,5 @@
 # SVG-Chart-Generator
-C Programming 
+C Programming: Project
 
 Year 1 Semester 1 (2021), Software Engineering, KMITL
 
