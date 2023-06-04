@@ -1,7 +1,7 @@
 # SVG-Chart-Generator
 C Programming 
 
-Year 1 Semester 1, SE KMITL
+Year 1 Semester 1 (2021), Software Engineering, KMITL
 
 64011655 Teerapat Wattnamanont
 
