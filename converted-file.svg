@@ -1,0 +1,50 @@
+<svg width='720px' height='512px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' class='graph' aria-labelledby='title' role='img'>
+<style>
+.rotate { transform: rotate(-90deg);}
+</style>
+    <rect fill='none' stroke='none' stroke-width='0px' width='720' height='512' y='0' x='0' ry='0' rx='0' />
+    <line stroke='#000000' stroke-width='1px' y2='380' x2='150' y1='30' x1='150' />
+    <text x='-250' y='80' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='14px'>Laps</text>
+    <text x='-450' y='176' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>Mercedes</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='176' y1='375' x1='176' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='30' cx='176' />
+    <text x='-450' y='222' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>Ferrari</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='222' y1='375' x1='222' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='194' cx='222' />
+    <text x='-450' y='268' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>RedBull</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='268' y1='375' x1='268' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='50' cx='268' />
+    <text x='-450' y='314' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>McLaren</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='314' y1='375' x1='314' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='78' cx='314' />
+    <text x='-450' y='360' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>Renault</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='360' y1='375' x1='360' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='250' cx='360' />
+    <text x='-450' y='406' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>AlphaTauri</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='406' y1='375' x1='406' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='258' cx='406' />
+    <text x='-450' y='452' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>RacingPoint</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='452' y1='375' x1='452' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='282' cx='452' />
+    <text x='-450' y='498' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>AlfaRomeo</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='498' y1='375' x1='498' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='170' cx='498' />
+    <text x='-450' y='544' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>Haas</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='544' y1='375' x1='544' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='298' cx='544' />
+    <text x='-450' y='590' class='rotate' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='10px'>Williams</text>
+    <line stroke='#000000' stroke-width='1px' y2='385' x2='590' y1='375' x1='590' />
+    <circle stroke='#000080' stroke-width='0px' fill='#0000FF' r='4' cy='174' cx='590' />
+    <line stroke='#000000' stroke-width='1px' y2='30' x2='145' y1='30' x1='155' />
+    <text x='120' y='30' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='12px'>173</text>
+    <line stroke='#000000' stroke-width='1px' y2='100' x2='145' y1='100' x1='155' />
+    <text x='120' y='100' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='12px'>156</text>
+    <line stroke='#000000' stroke-width='1px' y2='170' x2='145' y1='170' x1='155' />
+    <text x='120' y='170' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='12px'>139</text>
+    <line stroke='#000000' stroke-width='1px' y2='240' x2='145' y1='240' x1='155' />
+    <text x='120' y='240' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='12px'>122</text>
+    <line stroke='#000000' stroke-width='1px' y2='310' x2='145' y1='310' x1='155' />
+    <text x='120' y='310' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='12px'>105</text>
+    <line stroke='#000000' stroke-width='1px' y2='380' x2='600' y1='380' x1='150' />
+    <text x='605' y='380' class='' font-family='sans-serif' stroke='#000000' fill='#000000' font-size='14px'>Team</text>
+</svg>

@@ -1,0 +1,10 @@
+Mercedes,173
+Ferrari,132
+RedBull,168
+McLaren,161
+Renault,118
+AlphaTauri,116
+RacingPoint,110
+AlfaRomeo,138
+Haas,106
+Williams,137
