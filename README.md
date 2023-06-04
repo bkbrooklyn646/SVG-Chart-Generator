@@ -1,4 +1,6 @@
 # SVG-Chart-Generator
+C Programming 
+Year 1 Semester 1, SE KMITL
 64011655 Teerapat Wattnamanont
 
 This is a program where it will convert text file into svg file.
